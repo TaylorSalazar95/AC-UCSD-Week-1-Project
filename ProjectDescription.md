@@ -8,7 +8,7 @@ Taylor Salazar
 Introduction to Python
 
 
-                                                      Our Password Cracking Algorithm
+                                              Our Password Cracking Algorithm
 	Our project consists of 22 lines of code and has the purpose of solving a password with any given number, 
 	letter, and special character combination. The purpose of this algorithm is to show how inefficient brute 
 	force programming is and how other solutions are necessary in order to solve more complicated passwords. 
